@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "526376898313",
+    "project_id": "isiapp-fb5f4",
+    "storage_bucket": "isiapp-fb5f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526376898313:android:aa577cd40f882997e5cdd8",
+        "android_client_info": {
+          "package_name": "com.example.isi_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiaBnpqa_gDvV1GfBw3M02-RNyPfDDm20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526376898313:android:23985284e3529c27e5cdd8",
+        "android_client_info": {
+          "package_name": "com.example.isi_admin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiaBnpqa_gDvV1GfBw3M02-RNyPfDDm20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526376898313:android:0e8bbfb229054a06e5cdd8",
+        "android_client_info": {
+          "package_name": "com.example.isi_student"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiaBnpqa_gDvV1GfBw3M02-RNyPfDDm20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
